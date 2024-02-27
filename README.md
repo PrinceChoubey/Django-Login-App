@@ -14,7 +14,7 @@ This Django app offers customers a simple login feature. Users may create an acc
 1. Clone the repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/PrinceChoubey/Django-Login-App.git
 ```
 
 2. Navigate to the project directory:
