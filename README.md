@@ -55,6 +55,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Feel free to customize this README file with additional information specific to your Django login app.
+
+
